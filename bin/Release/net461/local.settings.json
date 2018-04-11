@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "SQL_SERVER_DB": "azuredwmonitordb",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "11.0.611103.400",
+    "WEBSITE_DISABLE_MSI": "false",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "c6e56bb0-6b23-451b-9825-56534b26742a",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=alertcollector8e89;AccountKey=iinykomoj8CW9UlX0e0QHJyed/ga66oseg8YRBiKqo0gwxj/F53bTX1dLuKoh2GxvkHdDEwPTTlDY2Fu7G89Vw==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "SQL_SERVER_DW": "azuredwmonitordw",
+    "SQL_SERVER_NAME": "azuredwmonitorsql.database.windows.net",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=alertcollector8e89;AccountKey=iinykomoj8CW9UlX0e0QHJyed/ga66oseg8YRBiKqo0gwxj/F53bTX1dLuKoh2GxvkHdDEwPTTlDY2Fu7G89Vw==",
+    "WEBSITE_SITE_NAME": "AlertCollector",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout"
+  }
+}

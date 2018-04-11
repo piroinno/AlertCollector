@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="testfuncpiro" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Piroinno\\Code\\AlertCollector\\obj\\Release\\net461\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
